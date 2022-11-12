@@ -2,18 +2,18 @@
 
 ---
 
-### Category Name 1 
+### Games made in Unity I worked on:
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Stop! (Demo)](https://personastudio.itch.io/stop-demo)
+<img src="images/StopPortfolio.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Salvation of the Dead](https://salvationofthedead.itch.io/salvation-of-the-dead)
+<img src="images/SalvationOfTheDeadPortfollio.jpg?raw=true"/>
+
+---
+[Maze Runner](https://snowfly-studios.itch.io/maze-runner)
+<img src="images/MazeRunnerPortfolio.jpg?raw=true"/>
 
 ---
 
