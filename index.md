@@ -5,15 +5,15 @@
 ### Games made in Unity I worked on:
 
 [Stop! (Demo)](https://personastudio.itch.io/stop-demo)
-<img src="images/StopPortfolio.jpg?raw=true"/>
+<img src="images/StopPortfolio.png?raw=true"/>
 
 ---
 [Salvation of the Dead](https://salvationofthedead.itch.io/salvation-of-the-dead)
-<img src="images/SalvationOfTheDeadPortfollio.jpg?raw=true"/>
+<img src="images/SalvationOfTheDeadPortfollio.png?raw=true"/>
 
 ---
 [Maze Runner](https://snowfly-studios.itch.io/maze-runner)
-<img src="images/MazeRunnerPortfolio.jpg?raw=true"/>
+<img src="images/MazeRunnerPortfolio.png?raw=true"/>
 
 ---
 
