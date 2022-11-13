@@ -4,29 +4,33 @@
 
 ### Games made in Unity I worked on:
 
-[Stop! (Demo)](https://personastudio.itch.io/stop-demo)
+[Stop! (Demo, 2022)](https://personastudio.itch.io/stop-demo)
 <img src="images/StopPortfolio.png?raw=true"/>
 
 ---
-[Salvation of the Dead](https://salvationofthedead.itch.io/salvation-of-the-dead)
+[Salvation of the Dead (2022)](https://salvationofthedead.itch.io/salvation-of-the-dead)
 <img src="images/SalvationOfTheDeadPortfollio.png?raw=true"/>
 
 ---
-[Maze Runner](https://snowfly-studios.itch.io/maze-runner)
+[Maze Runner (2022)](https://snowfly-studios.itch.io/maze-runner)
 <img src="images/MazeRunnerPortfolio.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Some of the films I directed:
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Kriza (eng: Crisis, 2021)](https://youtu.be/MCtgOSyqp2w)
+<img src="images/KrizaPortfolio.png?raw=true"/>
 
 ---
 
+[Izlet (eng: Trip, 2017)](https://youtu.be/DgouyLG_pSc)
+<img src="images/IzletPortfolio.png?raw=true"/>
+
+---
+
+[Muški film (eng: One for the Guys, 2015)](https://youtu.be/-j7Ie5Wbli8)
+<img src="images/MuskiFilmPortfolio.png?raw=true"/>
 
 
 
